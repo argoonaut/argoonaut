@@ -8,5 +8,7 @@
 </div>
 
 <div align="right">
-	![](https://komarev.com/ghpvc/?username=argonautts&color=blue&style=flat&)
+		
+ 	![](https://komarev.com/ghpvc/?username=argonautts&color=blue&style=flat&)
+
 </div>
